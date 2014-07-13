@@ -1,0 +1,516 @@
+22208172	D006470	Hemorrhage
+22208173	D006323	Heart Arrest
+21985978	D006961	Hyperparathyroidism
+21985978	D049950	Hyperparathyroidism, Primary
+21985978	D018761	Multiple Endocrine Neoplasia Type 1
+21985978	D018813	Multiple Endocrine Neoplasia Type 2a
+21985978	D010282	Parathyroid Neoplasms
+22208176	D006323	Heart Arrest
+22208176	D018487	Ventricular Dysfunction, Left
+22208176	D014693	Ventricular Fibrillation
+22208177	D006323	Heart Arrest
+22208177	D015427	Reperfusion Injury
+22208177	D018754	Ventricular Dysfunction
+22208174	D006323	Heart Arrest
+22208174	D015427	Reperfusion Injury
+22208175	D006323	Heart Arrest
+22208175	D014693	Ventricular Fibrillation
+22208442	D007414	Intestinal Neoplasms
+22208442	D054391	Lymphoma, Extranodal NK-T-Cell
+22208443	D000505	Alopecia
+22208443	D003449	Cryoglobulinemia
+22208443	D019698	Hepatitis C, Chronic
+22208443	D008010	Lichen Planus
+22208443	D017119	Porphyria Cutanea Tarda
+22208443	D012507	Sarcoidosis
+22208443	D012871	Skin Diseases
+22208443	D014820	Vitiligo
+22208178	D006323	Heart Arrest
+22208178	D018496	Hyperoxia
+22208178	D015428	Myocardial Reperfusion Injury
+22208441	D009203	Myocardial Infarction
+22208446	D016883	Diabetic Ketoacidosis
+22208446	D007251	Influenza, Human
+22208447	D005354	Fibrosarcoma
+22208447	D015658	HIV Infections
+22208447	D008441	Maxillary Neoplasms
+22208444	D034381	Hearing Loss
+22208561	D005235	Fatty Liver, Alcoholic
+22125205	D009203	Myocardial Infarction
+22125205	D015428	Myocardial Reperfusion Injury
+22125206	D000208	Acute Disease
+22125206	D009203	Myocardial Infarction
+22125206	D015428	Myocardial Reperfusion Injury
+22125207	D007511	Ischemia
+22125207	D015428	Myocardial Reperfusion Injury
+22192721	D000015	Abnormalities, Multiple
+22192721	D006330	Heart Defects, Congenital
+22192721	D018636	Hypoplastic Left Heart Syndrome
+22192721	D014694	Ventricular Outflow Obstruction
+22192720	D018636	Hypoplastic Left Heart Syndrome
+22125208	D015428	Myocardial Reperfusion Injury
+22125209	D006333	Heart Failure
+22125209	D017202	Myocardial Ischemia
+22125209	D015428	Myocardial Reperfusion Injury
+21985977	D000015	Abnormalities, Multiple
+21985977	D001327	Autoimmune Diseases
+21985977	D004062	DiGeorge Syndrome
+21985977	D005097	Exostoses, Multiple Hereditary
+21985977	D006130	Growth Disorders
+21985977	D054559	Hyperphosphatemia
+21985977	D006996	Hypocalcemia
+21985977	D007011	Hypoparathyroidism
+21985977	D010009	Osteochondrodysplasias
+21985977	D011547	Pseudohypoparathyroidism
+21985977	D012640	Seizures
+21985976	D006934	Hypercalcemia
+21985979	D000236	Adenoma
+21985979	D049950	Hyperparathyroidism, Primary
+21985979	D010282	Parathyroid Neoplasms
+22208597	D002177	Candidiasis
+22208458	D016778	Malaria, Falciparum
+22202189	D000208	Acute Disease
+22202189	D001037	Aphasia
+22202189	D002908	Chronic Disease
+22202189	D020521	Stroke
+22202188	D000208	Acute Disease
+22202188	D001037	Aphasia
+22202188	D002908	Chronic Disease
+22202188	D020521	Stroke
+22208356	D009140	Musculoskeletal Diseases
+22208356	D009784	Occupational Diseases
+22202187	D000208	Acute Disease
+22202187	D001037	Aphasia
+22202187	D002908	Chronic Disease
+22202187	D020521	Stroke
+22208450	D005221	Fatigue
+22208453	D015212	Inflammatory Bowel Diseases
+22208452	D000163	Acquired Immunodeficiency Syndrome
+22208452	D015658	HIV Infections
+22182276	D002545	Brain Ischemia
+22182276	D020521	Stroke
+22182277	D020521	Stroke
+22182275	D002545	Brain Ischemia
+22182275	D020521	Stroke
+22182272	D002545	Brain Ischemia
+22182272	D016893	Carotid Stenosis
+22182272	D020521	Stroke
+22182273	D002545	Brain Ischemia
+22182273	D003251	Constriction, Pathologic
+22182273	D002537	Intracranial Arteriosclerosis
+22182273	D012008	Recurrence
+22182270	D016893	Carotid Stenosis
+22182270	D020521	Stroke
+22182271	D016893	Carotid Stenosis
+22182271	D020521	Stroke
+22195755	D000799	Angioedema
+22182278	D002545	Brain Ischemia
+22182278	D020521	Stroke
+22195756	D054179	Angioedemas, Hereditary
+22195756	D007819	Laryngeal Edema
+22182056	D018798	Anemia, Iron-Deficiency
+22182056	D008595	Menorrhagia
+22182056	D008796	Metrorrhagia
+22182054	D004715	Endometriosis
+22182054	D007889	Leiomyoma
+22182054	D008595	Menorrhagia
+22182054	D008796	Metrorrhagia
+22182054	D014594	Uterine Neoplasms
+22182055	D016889	Endometrial Neoplasms
+22182055	D007889	Leiomyoma
+22182055	D008595	Menorrhagia
+22182055	D008796	Metrorrhagia
+22182055	D011127	Polyps
+22182055	D014594	Uterine Neoplasms
+22125108	D000505	Alopecia
+22125108	D004700	Endocrine System Diseases
+22125107	D018358	Neuroendocrine Tumors
+22185687	D012221	Rhinitis, Allergic, Perennial
+22185687	D006255	Rhinitis, Allergic, Seasonal
+22125105	D013959	Thyroid Diseases
+22125105	D013964	Thyroid Neoplasms
+22125104	D001327	Autoimmune Diseases
+22125104	D049970	Graves Ophthalmopathy
+22125104	D050031	Hashimoto Disease
+22125020	D010024	Osteoporosis
+22125021	D010024	Osteoporosis
+22125021	D058866	Osteoporotic Fractures
+22125022	D006620	Hip Fractures
+22125022	D010024	Osteoporosis
+22195758	D054179	Angioedemas, Hereditary
+22182267	D002545	Brain Ischemia
+22182267	D020521	Stroke
+22182267	D013923	Thromboembolism
+22208429	D018316	Gliosarcoma
+22208429	D010291	Paresis
+22208429	D013120	Spinal Cord Neoplasms
+22208358	D018410	Pneumonia, Bacterial
+22208424	D002908	Chronic Disease
+22208355	D006937	Hypercholesterolemia
+22136899	D019636	Neurodegenerative Diseases
+22136898	D017034	Epilepsy, Frontal Lobe
+22208620	D002418	Cattle Diseases
+22208620	D012554	Schistosomiasis japonica
+22208620	D012757	Sheep Diseases
+22136891	D009069	Movement Disorders
+22136891	D009207	Myoclonus
+22136891	D020189	Nocturnal Myoclonus Syndrome
+22125234	D003324	Coronary Artery Disease
+22203777	D009369	Neoplasms
+22136892	D004827	Epilepsy
+22136892	D004832	Epilepsy, Absence
+22136892	D004829	Epilepsy, Generalized
+22136892	D020190	Myoclonic Epilepsy, Juvenile
+22136895	D017034	Epilepsy, Frontal Lobe
+22136897	D004827	Epilepsy
+22136896	D034062	Insomnia, Fatal Familial
+22136896	D009069	Movement Disorders
+22136896	D020385	Myokymia
+22202648	D000038	Abscess
+22202648	D012871	Skin Diseases
+22202646	D005128	Eye Diseases
+22202646	D012871	Skin Diseases
+22202646	D012878	Skin Neoplasms
+22202647	D012878	Skin Neoplasms
+22202644	D003872	Dermatitis
+22202644	D010859	Pigmentation Disorders
+22202644	D027601	Polyomavirus Infections
+22202645	D008180	Lupus Erythematosus, Systemic
+22202643	D000505	Alopecia
+22202643	D015658	HIV Infections
+22202643	D015490	HTLV-I Infections
+22202643	D016410	Lymphoma, T-Cell, Cutaneous
+22202643	D027601	Polyomavirus Infections
+22202643	D012871	Skin Diseases
+22208179	D006323	Heart Arrest
+22208179	D018754	Ventricular Dysfunction
+22208486	D006223	Hamartoma Syndrome, Multiple
+22208487	D015456	Leukemia, Biphenotypic, Acute
+22208484	D015179	Colorectal Neoplasms
+22208485	D015464	Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+22208485	D018365	Neoplasm, Residual
+22208482	D003550	Cystic Fibrosis
+22208483	D004761	Enterocolitis, Pseudomembranous
+22208480	D016108	Epidermolysis Bullosa Dystrophica
+22208527	D000740	Anemia
+22208527	D009369	Neoplasms
+22208488	D001943	Breast Neoplasms
+22208489	D001859	Bone Neoplasms
+22208489	D018211	Chondrosarcoma, Mesenchymal
+22208131	D001766	Blindness
+22089849	D005264	Femoral Fractures
+22208138	D009784	Occupational Diseases
+22208138	D014376	Tuberculosis
+22208139	D003928	Diabetic Nephropathies
+22208139	D007676	Kidney Failure, Chronic
+22207924	D008113	Liver Neoplasms
+22207925	D000568	Amenorrhea
+22207926	D001528	Behcet Syndrome
+22207926	D005767	Gastrointestinal Diseases
+22207926	D007410	Intestinal Diseases
+22207927	D007680	Kidney Neoplasms
+22207927	D012509	Sarcoma
+22207920	D005901	Glaucoma
+22207921	D009216	Myopia
+22208318	D018450	Disease Progression
+22208318	D005598	Fractures, Spontaneous
+22208318	D016103	Spinal Fractures
+22207923	D001327	Autoimmune Diseases
+22208314	D002543	Cerebral Hemorrhage
+22208314	D002532	Intracranial Aneurysm
+22208314	D002538	Intracranial Arteriovenous Malformations
+22208315	D000757	Anencephaly
+22208315	D001925	Brain Damage, Chronic
+22208315	D002114	Calcinosis
+22208315	D002543	Cerebral Hemorrhage
+22208315	D006849	Hydrocephalus
+22208315	D011183	Postoperative Complications
+22208315	D013226	Status Epilepticus
+22207928	D010051	Ovarian Neoplasms
+22207929	D005549	Foreign-Body Reaction
+22207929	D011183	Postoperative Complications
+22208559	D006373	Helminthiasis
+22208553	D002828	Choristoma
+22208553	D003424	Crohn Disease
+22208554	D002318	Cardiovascular Diseases
+22208557	D015746	Abdominal Pain
+22208557	D002908	Chronic Disease
+22208557	D003967	Diarrhea
+22208557	D008180	Lupus Erythematosus, Systemic
+22208557	D011502	Protein-Energy Malnutrition
+22208557	D011504	Protein-Losing Enteropathies
+21985980	D000236	Adenoma
+21985980	D049950	Hyperparathyroidism, Primary
+21985980	D014808	Vitamin D Deficiency
+21985981	D049950	Hyperparathyroidism, Primary
+22208544	D002908	Chronic Disease
+22208544	D003550	Cystic Fibrosis
+22208544	D011552	Pseudomonas Infections
+22182269	D020521	Stroke
+22136903	D009069	Movement Disorders
+22136902	D009207	Myoclonus
+22136901	D001342	Autonomic Nervous System Diseases
+22136901	D019578	Multiple System Atrophy
+22136901	D019636	Neurodegenerative Diseases
+22136901	D010300	Parkinson Disease
+22182268	D002545	Brain Ischemia
+22182268	D020521	Stroke
+22208203	D000742	Anemia, Dyserythropoietic, Congenital
+22125213	D000860	Anoxia
+22125213	D001049	Apnea
+22125213	D001145	Arrhythmias, Cardiac
+22129548	D006335	Heart Injuries
+22183103	D004890	Erythema
+22183103	D012393	Rosacea
+22183103	D013684	Telangiectasis
+22183102	D012393	Rosacea
+22183101	D008924	Mite Infestations
+22183101	D012393	Rosacea
+22183100	D003877	Dermatitis, Contact
+22183100	D005483	Flushing
+22183100	D012393	Rosacea
+22208187	D001145	Arrhythmias, Cardiac
+22208185	D001145	Arrhythmias, Cardiac
+22129544	D055371	Acute Lung Injury
+22129544	D016638	Critical Illness
+22129544	D006976	Hypertension, Pulmonary
+22208078	D003715	Dengue
+22196208	D003453	Cryptococcosis
+22196208	D060585	Fusariosis
+22196208	D054019	Immune Reconstitution Inflammatory Syndrome
+22196208	D015451	Leukemia, Lymphocytic, Chronic, B-Cell
+22196208	D009181	Mycoses
+22196208	D009503	Neutropenia
+22196208	D009894	Opportunistic Infections
+22196206	D001228	Aspergillosis
+22196206	D007938	Leukemia
+22196206	D009091	Mucormycosis
+22196206	D009181	Mycoses
+22196206	D009190	Myelodysplastic Syndromes
+22196206	D009894	Opportunistic Infections
+22196206	D011014	Pneumonia
+22196207	D002177	Candidiasis
+22196205	D060585	Fusariosis
+22196205	D015470	Leukemia, Myeloid, Acute
+22196205	D009181	Mycoses
+22196205	D009894	Opportunistic Infections
+22208596	D014103	Torticollis
+22106977	D000419	Albuminuria
+22106977	D048909	Diabetes Complications
+22106977	D003924	Diabetes Mellitus, Type 2
+22200078	D001195	Asbestosis
+22202192	D000849	Anomia
+22202192	D020521	Stroke
+22202193	D002544	Cerebral Infarction
+22202190	D001037	Aphasia
+22202190	D020521	Stroke
+22208157	D003763	Dental Leakage
+22202194	D001037	Aphasia
+22208548	D002908	Chronic Disease
+22208548	D003550	Cystic Fibrosis
+22208548	D011552	Pseudomonas Infections
+22208548	D012141	Respiratory Tract Infections
+22008579	D014947	Wounds and Injuries
+22208390	D018450	Disease Progression
+22208390	D009369	Neoplasms
+22194427	D001926	Brain Death
+22194427	D003643	Death
+22194427	D006323	Heart Arrest
+22208543	D005134	Eye Neoplasms
+22208543	D005887	Gingival Neoplasms
+22208543	D008175	Lung Neoplasms
+22208543	D009378	Neoplasms, Multiple Primary
+22208543	D012514	Sarcoma, Kaposi
+22208542	D000208	Acute Disease
+22208542	D011350	Proctocolitis
+22208541	D005158	Facial Paralysis
+22208541	D016920	Meningitis, Bacterial
+22208541	D012612	Scrub Typhus
+22208547	D003550	Cystic Fibrosis
+22208547	D012141	Respiratory Tract Infections
+22208546	D002908	Chronic Disease
+22208546	D003550	Cystic Fibrosis
+22208546	D011552	Pseudomonas Infections
+22208546	D012141	Respiratory Tract Infections
+22008573	D001249	Asthma
+22208180	D058687	Out-of-Hospital Cardiac Arrest
+22208180	D014693	Ventricular Fibrillation
+22194426	D006323	Heart Arrest
+22202191	D001037	Aphasia
+22208330	D001922	Brain Abscess
+22208330	D015807	Eye Injuries, Penetrating
+22208330	D005548	Foreign-Body Migration
+22208330	D011183	Postoperative Complications
+22129547	D016638	Critical Illness
+22208117	D013119	Spinal Cord Injuries
+22208117	D020521	Stroke
+22208499	D018450	Disease Progression
+22208499	D009103	Multiple Sclerosis
+22208118	D000690	Amyotrophic Lateral Sclerosis
+22208118	D009103	Multiple Sclerosis
+22208118	D020521	Stroke
+22208333	D050197	Atherosclerosis
+22208645	D002908	Chronic Disease
+22208491	D015470	Leukemia, Myeloid, Acute
+22208490	D002583	Uterine Cervical Neoplasms
+22208493	D018317	Nerve Sheath Neoplasms
+22208493	D009442	Neurilemmoma
+22208493	D009455	Neurofibroma
+22208492	D009369	Neoplasms
+22208495	D006222	Hamartoma
+22208495	D006391	Hemangioma
+22208495	D008202	Lymphangioma
+22208495	D019043	Vascular Neoplasms
+22208494	D005355	Fibrosis
+22208494	D010190	Pancreatic Neoplasms
+22208497	D007251	Influenza, Human
+22208497	D011024	Pneumonia, Viral
+22208496	D008654	Mesothelioma
+22208496	D013736	Testicular Neoplasms
+22168520	D007228	Infant Nutrition Disorders
+22208160	D004487	Edema
+22208160	D007249	Inflammation
+22208160	D010538	Peritonitis
+22208160	D012871	Skin Diseases
+22208163	D005126	Eye Burns
+22208163	D012164	Retinal Diseases
+22208123	D020521	Stroke
+22208122	D020521	Stroke
+22208124	D004827	Epilepsy
+22208386	D000230	Adenocarcinoma
+22208386	D002294	Carcinoma, Squamous Cell
+22208386	D008175	Lung Neoplasms
+22208439	D002908	Chronic Disease
+22208439	D014397	Tuberculosis, Pulmonary
+22208438	D002294	Carcinoma, Squamous Cell
+22208438	D004938	Esophageal Neoplasms
+22208644	D028361	Mitochondrial Diseases
+22125212	D006973	Hypertension
+22125211	D006973	Hypertension
+22125210	D002318	Cardiovascular Diseases
+22125210	D008659	Metabolic Diseases
+22208648	D012640	Seizures
+22208431	D015535	Arthritis, Psoriatic
+22208431	D055985	Latent Tuberculosis
+22208431	D011565	Psoriasis
+22208384	D000208	Acute Disease
+22208384	D002908	Chronic Disease
+22208437	D006470	Hemorrhage
+22208437	D007251	Influenza, Human
+22195757	D000799	Angioedema
+22195757	D054179	Angioedemas, Hereditary
+22208329	D018450	Disease Progression
+22208329	D020821	Dystonic Disorders
+22208328	D002547	Cerebral Palsy
+22208328	D004421	Dystonia
+22208328	D002534	Hypoxia, Brain
+22208328	D007647	Kernicterus
+22208328	D009103	Multiple Sclerosis
+22208328	D009128	Muscle Spasticity
+22208328	D015518	Rett Syndrome
+22183099	D003876	Dermatitis, Atopic
+22183099	D003882	Dermatomyositis
+22183099	D008178	Lupus Erythematosus, Cutaneous
+22183099	D010787	Photosensitivity Disorders
+22183099	D012393	Rosacea
+22183098	D003875	Drug Eruptions
+22183098	D004487	Edema
+22183098	D005128	Eye Diseases
+22183098	D005148	Facial Dermatoses
+22183098	D006099	Granuloma
+22183098	D012224	Rhinophyma
+22183098	D012393	Rosacea
+22208323	D006849	Hydrocephalus
+22208322	D002543	Cerebral Hemorrhage
+22208322	D006849	Hydrocephalus
+22208322	D007235	Infant, Premature, Diseases
+22208322	D011183	Postoperative Complications
+21978117	D007593	Joint Instability
+22208320	D009436	Neural Tube Defects
+22208320	D015840	Oculomotor Nerve Diseases
+22208320	D012008	Recurrence
+22208327	D009436	Neural Tube Defects
+22208326	D016080	Arachnoid Cysts
+22208326	D018450	Disease Progression
+22208326	D006849	Hydrocephalus
+22208326	D010985	Platybasia
+22208326	D011782	Quadriplegia
+22208326	D012887	Skull Fractures
+22208326	D013595	Syringomyelia
+22208325	D000130	Achondroplasia
+22208325	D004200	Diseases in Twins
+22208325	D006849	Hydrocephalus
+22208324	D018784	Abdominal Abscess
+22208324	D001442	Bacteroides Infections
+22208324	D058565	Cerebral Ventriculitis
+22208324	D002908	Chronic Disease
+22208324	D004927	Escherichia coli Infections
+22208324	D034161	Pelvic Infection
+22208324	D010538	Peritonitis
+22008580	D047928	Premature Birth
+22189252	D005512	Food Hypersensitivity
+22208140	D001172	Arthritis, Rheumatoid
+22208140	D002318	Cardiovascular Diseases
+22208140	D003324	Coronary Artery Disease
+22208140	D010510	Periodontal Diseases
+22208140	D010518	Periodontitis
+22208140	D012140	Respiratory Tract Diseases
+22183418	D003924	Diabetes Mellitus, Type 2
+22208617	D011471	Prostatic Neoplasms
+22208616	D009422	Nervous System Diseases
+22208616	D011297	Prenatal Exposure Delayed Effects
+22208614	D001943	Breast Neoplasms
+22208613	D010190	Pancreatic Neoplasms
+22208612	D001932	Brain Neoplasms
+22208612	D005910	Glioma
+22208612	D019636	Neurodegenerative Diseases
+22183095	D012393	Rosacea
+22200879	D000022	Abortion, Spontaneous
+22208409	D016778	Malaria, Falciparum
+22200877	D007246	Infertility
+22208321	D001932	Brain Neoplasms
+22208321	D002551	Cerebral Ventricle Neoplasms
+22208321	D004393	Dwarfism, Pituitary
+22208321	D018240	Endodermal Sinus Tumor
+22208321	D006849	Hydrocephalus
+22208321	D009378	Neoplasms, Multiple Primary
+22189255	D003876	Dermatitis, Atopic
+22189254	D005512	Food Hypersensitivity
+22189254	D006967	Hypersensitivity
+22183096	D012393	Rosacea
+22189253	D001249	Asthma
+22189253	D003876	Dermatitis, Atopic
+22189253	D005512	Food Hypersensitivity
+22189253	D006967	Hypersensitivity
+22189253	D012220	Rhinitis
+22208319	D004443	Echinococcosis
+22208319	D005094	Exophthalmos
+22208319	D009916	Orbital Diseases
+22208312	D001424	Bacterial Infections
+22208313	D002543	Cerebral Hemorrhage
+22208313	D002538	Intracranial Arteriovenous Malformations
+22208313	D011183	Postoperative Complications
+22125019	D015663	Osteoporosis, Postmenopausal
+22125019	D058866	Osteoporotic Fractures
+22125018	D015663	Osteoporosis, Postmenopausal
+22125018	D058866	Osteoporotic Fractures
+22125017	D010024	Osteoporosis
+22125016	D050723	Fractures, Bone
+22125016	D010024	Osteoporosis
+22208538	D006528	Carcinoma, Hepatocellular
+22208538	D019694	Hepatitis B, Chronic
+22208538	D019698	Hepatitis C, Chronic
+22208538	D008113	Liver Neoplasms
+22208537	D016481	Helicobacter Infections
+22208537	D013274	Stomach Neoplasms
+22183097	D004487	Edema
+22183097	D004890	Erythema
+22183097	D007249	Inflammation
+22183097	D008924	Mite Infestations
+22183097	D012224	Rhinophyma
+22183097	D012393	Rosacea
+22183097	D013684	Telangiectasis
+22208535	D019698	Hepatitis C, Chronic
+22194437	D001926	Brain Death
+22194439	D001926	Brain Death
+22194438	D001926	Brain Death

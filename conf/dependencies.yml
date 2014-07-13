@@ -1,0 +1,9 @@
+# Application dependencies
+
+require:
+    - play
+    - org.apache.lucene -> lucene-core 4.7.2
+    - org.apache.lucene -> lucene-analyzers-common 4.7.2
+    - org.apache.lucene -> lucene-queryparser 4.7.2
+    - play -> morphia 1.2.12
+    - com.google.guava -> guava 16.0.1
