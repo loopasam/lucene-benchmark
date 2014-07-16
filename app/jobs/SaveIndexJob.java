@@ -48,6 +48,7 @@ public class SaveIndexJob extends Job {
         Charset charset = Charset.defaultCharset();
         List<String> pmids = Files.readAllLines(filePath, charset);
 
+        //TODO analyzer tests
         Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_47);
         Directory directory = FSDirectory.open(VirtualFile.fromRelativePath("/index").getRealFile());
         IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_47, analyzer);
@@ -60,6 +61,8 @@ public class SaveIndexJob extends Job {
         for (String pmid : pmids) {
             counter++;
             Logger.info("pmid (" + pmid + "): " + counter + "/" + total);
+            
+            //Can be modified - gets the articles
             MorphiaCitation citation = MorphiaCitation.filter("pmid", pmid).first();
             Logger.info("query done");
             if (citation != null) {

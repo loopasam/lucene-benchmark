@@ -48,6 +48,8 @@ public class EvaluateRetrieval extends Job {
 
         int total = lines.size();
         int counter = 0;
+        
+        //TODO just to store the resutls and printing file
         StringBuilder sb = new StringBuilder();
         sb.append("PMID\tMESH_ID\tMESH_TERM\n");
 
@@ -74,13 +76,17 @@ public class EvaluateRetrieval extends Job {
             Directory directory = FSDirectory.open(VirtualFile.fromRelativePath("/index").getRealFile());
             DirectoryReader ireader = DirectoryReader.open(directory);
 
+            //TODO Query analyzer - can be changed and switched
             Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_47);
             IndexSearcher isearcher = new IndexSearcher(ireader);
+            
+            //Maybe different type of parser?
             QueryParser parser = new QueryParser(Version.LUCENE_47, "contents", analyzer);
 
             // Logger.info("Query: " + term);
             if (!term.contains("(")) {
 
+                //TODO different syntax and operators
                 Query query = parser.parse("\"" + term.replace("/", "\\/") + "\"");
                 //Logger.info("query: " + query.toString());
 
